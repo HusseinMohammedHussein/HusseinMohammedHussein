@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Here is what I'm working on! 👋
 
 - 🔭 I’m currently working on Android Developer 
 - 🌱 I’m currently learning Java / Kotlin
