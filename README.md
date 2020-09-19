@@ -1,5 +1,11 @@
 ### Here is what I'm working on! 👋
 
+<div align="center">
+  <img src="http://www.nyan.cat/cats/original.gif" height="128">
+</div>
+
+
+
 - 🔭 I’m currently working on Android Developer 
 - 🌱 I’m currently learning Java / Kotlin
 <!-- - 👯 I’m looking to collaborate on ... 
