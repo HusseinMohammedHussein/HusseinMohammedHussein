@@ -6,9 +6,9 @@
 
 
 
-- I’m currently working on Android Developer.
-- I’m currently learning Kotlin.
-- 💬 Ask me about Anything
+- I’m currently working on Android Developer (JAVA | Kotlin).
+- I’m currently learning Flutter.
+<!-- - 💬 Ask me about Anything -->
 <!-- - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... -->
 
