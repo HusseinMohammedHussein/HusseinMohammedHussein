@@ -4,10 +4,8 @@
   <img src="http://www.nyan.cat/cats/original.gif" height="128">
 </div> -->
 
-
-
-- I’m currently working on Android Developer (JAVA | Kotlin).
-- I’m currently learning Flutter.
+* I’m a Mobile Developer using Flutter.
+* I’ve experience in Android Native Development using (JAVA | Kotlin).
 <!-- - 💬 Ask me about Anything -->
 <!-- - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... -->
