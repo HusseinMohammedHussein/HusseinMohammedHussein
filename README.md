@@ -5,7 +5,7 @@
   <img src="http://www.nyan.cat/cats/original.gif" height="128">
 </div> -->
 ---
-### Flutter Developer | Open Source Enthusiast </br> I'm passionate about creating delightful mobile experiences with Flutter and contributing to the developer community. I enjoy writing about my learnings and experiences on my tech blog.
+### Flutter Developer | Open Source Enthusiast </br> I'm passionate about creating delightful mobile experiences with Flutter and contributing to the developer community.
 ---
 #### 🚀 Skills: Flutter, Dart, Firebase, RESTful APIs
 
